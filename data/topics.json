@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Budget Basics",
+    "content": "A budget is like a treasure map for your money! It helps you plan where your money should go. Think about your allowance or money you earn. A budget tells you how much to save, how much to spend on things you need, and how to reach your goals!",
+    "color": "#FFD700",
+    "position": { "x": 200, "y": 150 },
+    "question": {
+      "text": "You get $15 per week allowance. If you save $5 each week, how much will you have saved after 4 weeks?",
+      "options": ["$15", "$20", "$25", "$30"],
+      "correct": 1,
+      "explanation": "Perfect! $5 × 4 weeks = $20 saved. That's a great budgeting habit!"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Needs vs Wants",
+    "content": "Need = Something you MUST have to live, like food, clothes, and a warm home. Want = Something nice to have, like video games or fancy sneakers. Smart budgeters pay for needs first, then save for wants!",
+    "color": "#FF6B6B",
+    "position": { "x": 600, "y": 100 },
+    "question": {
+      "text": "You have $25. You need lunch ($10) and see a cool game ($20). What should you do?",
+      "options": ["Buy the game and figure out lunch later", "Buy both and borrow money", "Buy lunch only, save rest for game", "Don't buy anything"],
+      "correct": 2,
+      "explanation": "Great choice! Always take care of needs first. Then save $15 after each lunch until you can buy the game!"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Setting Goals",
+    "content": "Setting goals means deciding what you want to save for, like a new bike or video game. Make your goals specific, give them a timeline, and track your progress. Small goals add up to big dreams!",
+    "color": "#4ECDC4",
+    "position": { "x": 150, "y": 350 },
+    "question": {
+      "text": "You want a $60 bike. If you save $12 per week, how many weeks until you can buy it?",
+      "options": ["4 weeks", "5 weeks", "6 weeks", "7 weeks"],
+      "correct": 1,
+      "explanation": "Exactly right! $60 ÷ $12 = 5 weeks. Setting a savings goal with a timeline helps you stay focused!"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Track Your Spending",
+    "content": "Knowing where your money goes is super important! Write down what you spend and what you save. This helps you see patterns and make better choices. Try tracking for one week - you'll be surprised!",
+    "color": "#45B7D1",
+    "position": { "x": 550, "y": 300 },
+    "question": {
+      "text": "Track your spending for a week:零食 $5, Book $8, Movie $12, Game $15. How much did you spend on wants (not needs)?",
+      "options": ["$20", "$25", "$35", "$40"],
+      "correct": 3,
+      "explanation": "Correct! All of these are wants ($5 + $8 + $12 + $15 = $40). Tracking helps you see where your money goes!"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Save First Rule",
+    "content": "The golden rule: PAY YOURSELF FIRST! When you get money, put a chunk into savings BEFORE spending anything. Even 10% or $2 makes a big difference over time. Build this habit early!",
+    "color": "#96CEB4",
+    "position": { "x": 300, "y": 450 },
+    "question": {
+      "text": "You earn $20. Following the 'save first' rule with 10%, how much should you save immediately?",
+      "options": ["$1", "$2", "$5", "$10"],
+      "correct": 1,
+      "explanation": "Awesome! 10% of $20 = $2 saved first. The remaining $18 is for needs and wants!"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Piggy Bank Power",
+    "content": "Your money in a savings account grows over time, like magic! This is called interest. You earn money just by having money saved. The sooner you start and the more you save, the more you earn!",
+    "color": "#FFEAA7",
+    "position": { "x": 700, "y": 450 },
+    "question": {
+      "text": "You save $100. The bank gives you 5% interest per year. How much free money do you earn in one year?",
+      "options": ["$2", "$5", "$10", "$15"],
+      "correct": 1,
+      "explanation": "Exactly! 5% of $100 = $5. Your money made $5 just by sitting in the bank. That's the power of saving!"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Making Smart Choices",
+    "content": "Before spending, ask: Do I really need it? Will I still want it next week? Can I find it cheaper or used? Waiting a few days before buying helps you avoid impulse purchases and choose smarter!",
+    "color": "#DDA0DD",
+    "position": { "x": 100, "y": 550 },
+    "question": {
+      "text": "You see a $40 game you want. You have $50 saved. Should you buy it now or wait?",
+      "options": ["Buy now, deals won't last", "Wait 3 days, then decide", "Put it on credit card", "Ask parents for more money"],
+      "correct": 1,
+      "explanation": "Perfect! Waiting 3 days helps you determine if you really want it. If you still want it, buy it with savings!"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Money Mistakes to Avoid",
+    "content": "Common traps: Spending all money immediately, using credit cards without money to pay back, buying things you already own, falling for 'too good to be true' deals. Stay aware and make smart money choices!",
+    "color": "#F4A688",
+    "position": { "x": 500, "y": 550 },
+    "question": {
+      "text": "A friend offers you a 'guaranteed way to double your money fast' if you give them $20. What do you do?",
+      "options": ["Give them $20, need fast cash", "Research first, ask parents", "Try with just $5", "Get loan to give more"],
+      "correct": 1,
+      "explanation": "Very smart! If it sounds too good to be true, it probably is. Research and ask for advice first!"
+    }
+  }
+]
